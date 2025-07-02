@@ -4,3 +4,10 @@ bory {
     text-align: justify;
     font-size: 25px;
 }
+
+h1{
+   background-color: black;
+   color: bisque;
+   text-align: center;
+   font-size: 30px;
+}
